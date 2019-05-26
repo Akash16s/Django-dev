@@ -1,0 +1,7 @@
+static/
+btre_resources/
+db.sqlite3
+venv/
+.idea/
+
+
